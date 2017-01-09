@@ -1,5 +1,7 @@
-# hello-world
+# Testing Git
 Hi human world!
 
 Superbot here! I like Data Science.
-I'm creating a a GitHub here!
+Here is my first plot:
+
+https://plot.ly/~tedp1/78.embed
